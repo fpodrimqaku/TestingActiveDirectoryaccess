@@ -1,0 +1,7 @@
+C:\Users\faton.podrimcaku\source\repos\TestingActiveDirectoryaccess\TestingActiveDirectoryaccess\bin\Debug\TestingActiveDirectoryaccess.exe.config
+C:\Users\faton.podrimcaku\source\repos\TestingActiveDirectoryaccess\TestingActiveDirectoryaccess\bin\Debug\TestingActiveDirectoryaccess.exe
+C:\Users\faton.podrimcaku\source\repos\TestingActiveDirectoryaccess\TestingActiveDirectoryaccess\bin\Debug\TestingActiveDirectoryaccess.pdb
+C:\Users\faton.podrimcaku\source\repos\TestingActiveDirectoryaccess\TestingActiveDirectoryaccess\obj\Debug\TestingActiveDirectoryaccess.csprojAssemblyReference.cache
+C:\Users\faton.podrimcaku\source\repos\TestingActiveDirectoryaccess\TestingActiveDirectoryaccess\obj\Debug\TestingActiveDirectoryaccess.csproj.CoreCompileInputs.cache
+C:\Users\faton.podrimcaku\source\repos\TestingActiveDirectoryaccess\TestingActiveDirectoryaccess\obj\Debug\TestingActiveDirectoryaccess.exe
+C:\Users\faton.podrimcaku\source\repos\TestingActiveDirectoryaccess\TestingActiveDirectoryaccess\obj\Debug\TestingActiveDirectoryaccess.pdb
